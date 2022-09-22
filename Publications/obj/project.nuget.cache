@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQRBQ1vAzYa3btZqkPgF41efHheTOOtTCtDivkgQZLWdLyG3YvoDuYbZKFj1PjvgQAo1No1zyrs8SgYYCpraew==",
+  "success": true,
+  "projectFilePath": "F:\\University 2020-2021\\CET211-Intermediate Software Development\\Week 4\\Publications\\Publications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\giani\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

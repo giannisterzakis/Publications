@@ -1,0 +1,27 @@
+D:\University 2020-2021\C#\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.exe
+D:\University 2020-2021\C#\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.deps.json
+D:\University 2020-2021\C#\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.runtimeconfig.json
+D:\University 2020-2021\C#\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.runtimeconfig.dev.json
+D:\University 2020-2021\C#\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.dll
+D:\University 2020-2021\C#\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.pdb
+D:\University 2020-2021\C#\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.csprojAssemblyReference.cache
+D:\University 2020-2021\C#\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.AssemblyInfoInputs.cache
+D:\University 2020-2021\C#\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.AssemblyInfo.cs
+D:\University 2020-2021\C#\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.csproj.CoreCompileInputs.cache
+D:\University 2020-2021\C#\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.dll
+D:\University 2020-2021\C#\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.pdb
+D:\University 2020-2021\C#\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.genruntimeconfig.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.exe
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.deps.json
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.runtimeconfig.json
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.runtimeconfig.dev.json
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.dll
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\bin\Debug\netcoreapp3.1\Publications.pdb
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.csproj.AssemblyReference.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.GeneratedMSBuildEditorConfig.editorconfig
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.AssemblyInfoInputs.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.AssemblyInfo.cs
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.csproj.CoreCompileInputs.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.dll
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.pdb
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\Publications\obj\Debug\netcoreapp3.1\Publications.genruntimeconfig.cache
